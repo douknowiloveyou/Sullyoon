@@ -138,7 +138,7 @@
     "editorSuggestWidget.border": "#FFFFFF",
     "editorSuggestWidget.focusHighlightForeground": "#FFB6C1",
     "editorSuggestWidget.foreground": "#B1B6B9",
-    "editorSuggestWidget.highlightForeground": "#b9adaf",
+    "editorSuggestWidget.highlightForeground": "#B9ADAF",
     "editorSuggestWidget.selectedBackground": "#235D9F",
     "editorSuggestWidget.selectedForeground": "#D2D4D5",
 
@@ -196,9 +196,9 @@
     "list.focusAndSelectionOutline": "#FFFFFF",
     "list.focusBackground": "#FFFFFF00",
     "list.focusForeground": "#B1B6B9",
-    "list.focusHighlightForeground": "#112945",
+    "list.focusHighlightForeground": "#FFB6C1",
     "list.focusOutline": "#FFFFFF",
-    "list.highlightForeground": "#3A82CF",
+    "list.highlightForeground": "#B9ADAF",
     "list.hoverBackground": "#FFFFFF00",
     "list.hoverForeground": "#B1B6B9",
     "list.inactiveFocusBackground": "#FFFFFF00",
@@ -259,6 +259,7 @@
     "progressBar.background": "#235D9F",
 
     "quickInput.background": "#0F0F0F",
+    "quickInputList.focusForeground": "#FFFFFF",
 
     "scrollbar.shadow": "#FFFFFF00",
 
